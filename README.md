@@ -1,5 +1,5 @@
 # Zadaca-br.2_8085
-
+ 
 Design a solution for an intersection using the traffic lights, to propose a minimal hardware solution (as a component name).
 
 ![Screenshot (1)](  https://github.com/TrajceStudent/Zadaca-br.2_8085/blob/main/i1.png  )
